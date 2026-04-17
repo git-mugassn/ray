@@ -1,0 +1,2 @@
+# Xray 连接
+# vless://6d756761-7373-6e61-9e7f-2a1b5d8c4f90@wdc-default-ray.mugassn.dpdns.org:443?type=ws&path=%2Fmugassn&security=tls&host=wdc-default-ray.mugassn.dpdns.org#mugassn

@@ -1,0 +1,2 @@
+ssh -J host.mugassn.dpdns.org root@wdc-ray
+password: uviVj6lbKOpiCgWz
